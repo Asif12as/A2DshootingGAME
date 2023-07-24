@@ -45,7 +45,7 @@ If you want to run the game locally, you can follow these steps:
 
 ## Screenshots
 
-![Gameplay Screenshot 1](screenshot.png)
+![Gameplay Screenshot 1](screenshot1.png)
 ![Gameplay Screenshot 2](screenshot.png)
 
 ## Contributing
