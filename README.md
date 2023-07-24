@@ -12,8 +12,7 @@ Shooting Game is a simple browser-based game built using HTML, CSS, JavaScript, 
 
 ## Demo
 
-You can play the game online [here]([link-to-your-game](http://127.0.0.1:5500/index.html)).
-
+You can play the game online [here](http://127.0.0.1:5500/index.html).
 ## Installation
 
 There's no installation required for this game. You can simply play it online by visiting the provided link.
